@@ -1,0 +1,23 @@
+?- father(salem, lama).
+true.
+
+?- father(saad, lama).
+false.
+
+?- mother(husniah, abdulmohsen).
+true.
+
+?- mother(salem, areej).
+false.
+
+?- brother(saad, maies).
+true.
+
+?- brother(areej, lama).
+false.
+
+?- sister(lama, abdulmohsen).
+true.
+
+?- sister(salem, husniah).
+false.
